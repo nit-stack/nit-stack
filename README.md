@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nit-stack
-- 👀 I’m interested in machine learning, trend analysis, visualizations and gaming
+- 👀 I’m interested in machine learning, data mining, and data visualization.
 - 🌱 I’m currently learning Hadoop and HIVE
 - 📫 How to reach me - nitishmuthu@outlook.com
 - 😄 Pronouns: He/Him
